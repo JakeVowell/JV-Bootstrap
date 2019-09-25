@@ -1,7 +1,7 @@
 .navbar{
   margin-bottom: 0;
   border-radius: 0;
-  background-color: #5E4485;
+  background-color: #E71F17;
   color: #FFF;
   padding: 1% 0;
   font-size: 1.2em;
@@ -11,6 +11,7 @@
   float: left;
   min-height: 55px;
   padding: 0 15px 5px;
+  color: #E71F17
 }
 .navbar-inverse .navbar-nav .active a,.navbar-inverse .navbar-nav .active a:focus
 .navbar-inverse .navbar-nav .active a:hover{
@@ -38,6 +39,7 @@
 #icon {
   max-width: 200px;
   margin: 1% auto;
+  color: #D3CB1d
 }
 
 
@@ -53,16 +55,16 @@ h2 {
 }
 footer{
   width: 100%;
- background-color:#5E4485;
+ background-color:#E71F17;
 padding: 5%;
 color: #FFF;
 }
 .fa {
   padding: 15px;
   font-size: 25px;
-  color: #FFF;
+  color: #D3CB1d;
 }
 .fa:hover{
-color:#D5D5D5;
+color:#1D20D3;
 text-decoration: none;
 }
